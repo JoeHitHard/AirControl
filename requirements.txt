@@ -1,0 +1,7 @@
+# Core dependencies
+mediapipe
+opencv-python
+pyautogui
+numpy
+python-dotenv
+pytest
