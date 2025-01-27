@@ -3,7 +3,7 @@
 
 **Control your computer mouse with hand gestures!** AirControl leverages computer vision and AI to translate your hand movements into precise cursor actions. Perfect for presentations, interactive setups, or just impressing your friends!
 
-![Demo](https://via.placeholder.com/800x500.png?text=Hand+Tracking+Demo+Placeholder)  
+![Demo](https://www.linkedin.com/posts/joseph-meghanath-9880ba149_aircontrol-python-computervision-activity-7288136176350216192-Kwa4?utm_source=share&utm_medium=member_desktop)  
 *(Replace with actual demo GIF/video)*
 
 ## ✨ Features
